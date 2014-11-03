@@ -1,0 +1,1 @@
+The variable shoes in not assigned a value or is outside of scope.
