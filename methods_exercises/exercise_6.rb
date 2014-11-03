@@ -1,0 +1,1 @@
+There is a wrong number of arguments being passed into the method calculate_product.
