@@ -1,0 +1,1 @@
+first x is symbol the second x is a having the string value of "some value" assigned as the value for the hash.
