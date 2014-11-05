@@ -1,0 +1,1 @@
+I like the ruby-doc.org site. it seems easy to navigate and has a ton of documentation!
