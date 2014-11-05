@@ -1,0 +1,1 @@
+exception handling is the output when an error occors, and is helpful for debugging code.
